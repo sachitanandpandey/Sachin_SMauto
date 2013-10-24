@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3979" started-at="2013-10-24T08:40:10Z" finished-at="2013-10-24T08:40:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3979" started-at="2013-10-24T08:40:10Z" finished-at="2013-10-24T08:40:14Z">
+      <class name="regressiontng">
+        <test-method status="PASS" signature="setup()[pri:0, instance:regressiontng@32d8b42e]" name="setup" is-config="true" duration-ms="10011" started-at="2013-10-24T14:10:00Z" finished-at="2013-10-24T14:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invalidargs()[pri:0, instance:regressiontng@32d8b42e]" name="invalidargs" duration-ms="923" started-at="2013-10-24T14:10:10Z" finished-at="2013-10-24T14:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidargs -->
+        <test-method status="PASS" signature="quantitysubs()[pri:0, instance:regressiontng@32d8b42e]" name="quantitysubs" duration-ms="3040" started-at="2013-10-24T14:10:10Z" finished-at="2013-10-24T14:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantitysubs -->
+      </class> <!-- regressiontng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

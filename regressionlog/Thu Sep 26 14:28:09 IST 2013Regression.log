@@ -1,0 +1,22 @@
+Sep 26, 2013 2:28:30 PM regression showowner
+INFO: Owner list command sucessfully executed
+Sep 26, 2013 2:28:30 PM regression showowner
+INFO: Sucessfully recovered owner list from data
+Sep 26, 2013 2:28:30 PM regression showowner
+INFO: Cli : Display user owner list : Fail 
+Sep 26, 2013 2:28:35 PM regression quantitysubs
+INFO: list available command sucessfully executed for client 10.65.201.173
+Sep 26, 2013 2:28:35 PM regression quantitysubs
+INFO: Pool id to subscribe00000000415934b101415935737f1153
+Sep 26, 2013 2:28:37 PM regression quantitysubs
+INFO: Pass: Not able to consume more than available quantity
+Sep 26, 2013 2:28:38 PM regression quantitysubs
+INFO: Pass: Not able to consume invalid quantity
+Sep 26, 2013 2:28:40 PM regression quantitysubs
+INFO: able to subscribe more than 1 quantity 
+Sep 26, 2013 2:28:41 PM regression quantitysubs
+INFO: Sucessfully collected consumed list 
+Sep 26, 2013 2:28:41 PM regression quantitysubs
+INFO: Subscribe quantity matched
+Sep 26, 2013 2:28:41 PM regression quantitysubs
+INFO: Tescase : subscribe subscription quantity : Pass

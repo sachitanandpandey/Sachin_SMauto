@@ -1,0 +1,16 @@
+Sep 26, 2013 2:30:58 PM regression quantitysubs
+INFO: list available command sucessfully executed for client 10.65.201.173
+Sep 26, 2013 2:30:58 PM regression quantitysubs
+INFO: Pool id to subscribe00000000415934b10141593575cd1293
+Sep 26, 2013 2:31:00 PM regression quantitysubs
+INFO: Pass: Not able to consume more than available quantity
+Sep 26, 2013 2:31:01 PM regression quantitysubs
+INFO: Pass: Not able to consume invalid quantity
+Sep 26, 2013 2:31:03 PM regression quantitysubs
+INFO: able to subscribe more than 1 quantity 
+Sep 26, 2013 2:31:04 PM regression quantitysubs
+INFO: Sucessfully collected consumed list 
+Sep 26, 2013 2:31:04 PM regression quantitysubs
+INFO: Subscribe quantity matched
+Sep 26, 2013 2:31:04 PM regression quantitysubs
+INFO: Tescase : subscribe subscription quantity : Pass

@@ -1,0 +1,13 @@
+sm.server.hostname = 10.65.201.193
+serveruser = root
+serverpassword = redhat
+
+sm.client.hostname = 10.65.201.228
+clientuser = root
+clientpassword = redhat 
+
+smuser = testuser1 
+smpassword = password
+
+smorg = admin
+smproxy = 
